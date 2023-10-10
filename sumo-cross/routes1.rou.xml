@@ -1,5 +1,5 @@
 <routes>
-    <vType id="xiaokeche" vClass = "taxi" accei = "0.4" decel = "4.5"
+    <vType id="xiaokeche" vClass = "taxi" accel = "0.4" decel = "4.5"
      length = "4" callFollowMode="carFollowing-W99" departSpeed = "max" maxSpeed="20" 
     actionStepLength="1"  laneChangeModel="SL2015" cc1="1.1"/>
 
